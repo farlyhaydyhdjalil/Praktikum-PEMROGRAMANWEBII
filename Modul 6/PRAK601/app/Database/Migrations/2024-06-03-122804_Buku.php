@@ -23,13 +23,11 @@ class Buku extends Migration
                 'type' => 'VARCHAR',
                 'constraint' => 255,
                 'null' => FALSE,
-                'unique' => TRUE,
             ],
             'penerbit' => [
                 'type' => 'VARCHAR',
                 'constraint' => 255,
                 'null' => FALSE,
-                'unique' => TRUE,
             ],
             'tahun_terbit' => [
                 'type' => 'YEAR',
