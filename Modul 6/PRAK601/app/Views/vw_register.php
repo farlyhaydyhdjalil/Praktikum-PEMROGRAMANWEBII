@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Register · MyLibrary</title>
+    <title>Register</title>
 
     <!-- Custom styles for this template -->
     <style>
